@@ -1,4 +1,4 @@
-# Lung_CT_Segmentation-Segnet
+# Lung_CT_Segmentation-Segnet for Python
 
 (Eng)For details, refer to the URL below
 
